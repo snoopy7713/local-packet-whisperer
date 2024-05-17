@@ -1,0 +1,1 @@
+streamlit run bin/lpw_main.py
